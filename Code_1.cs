@@ -1,4 +1,4 @@
 class Program
 {
-    void Run () { }
+    void Run () { System.writeln("ABC");}
 }
